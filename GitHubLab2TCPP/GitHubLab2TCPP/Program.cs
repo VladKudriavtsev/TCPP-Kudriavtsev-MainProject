@@ -7,7 +7,7 @@ namespace GitHubLab2TCPP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!g2ggggggggg");
-            //Changes in brunch ALPHA [ SECOND CHANGES]
+            //Changes in brunch ALPHA [ SECOND CHANGES] ( AND ANOTHER CHANGE )
             
             
         }

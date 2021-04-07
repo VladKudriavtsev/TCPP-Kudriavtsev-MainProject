@@ -8,7 +8,7 @@ namespace GitHubLab2TCPP
         {
             Console.WriteLine("Hello World!g2ggggggggg");
             //Changes in brunch ALPHA [ SECOND CHANGES] ( AND ANOTHER CHANGE )
-            // Edited from browser
+            // Edited from IDE second time
             
             
         }

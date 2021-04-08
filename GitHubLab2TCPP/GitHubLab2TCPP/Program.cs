@@ -6,7 +6,7 @@ namespace GitHubLab2TCPP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World, changes from IDE!");
+            Console.WriteLine("Hello World, changes from Browser!");
             //Changes in brunch ALPHA [ SECOND CHANGES] ( AND ANOTHER CHANGE )
             // Edited from browser 2
             
